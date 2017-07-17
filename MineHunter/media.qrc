@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/choice">
+        <file>media/choice/1.png</file>
+        <file>media/choice/2.png</file>
+        <file>media/choice/3.png</file>
+        <file>media/choice/bg.png</file>
+        <file>media/choice/关卡选择后退键.png</file>
+        <file>media/tg.png</file>
+    </qresource>
+    <qresource prefix="/mainwindow">
+        <file>media/mainwindow/01.png</file>
+        <file>media/mainwindow/02.png</file>
+        <file>media/mainwindow/03.png</file>
+        <file>media/mainwindow/主界面.png</file>
+        <file>media/mainwindow/主界面关闭.png</file>
+    </qresource>
+    <qresource prefix="/developer">
+        <file>media/developer/IMG_4541.png</file>
+        <file>media/developer/关卡选择后退键.png</file>
+    </qresource>
+    <qresource prefix="/gameover">
+        <file>media/gameover/gg.png</file>
+        <file>media/gameover/关卡选择后退键.png</file>
+    </qresource>
+    <qresource prefix="/level1">
+        <file>media/level1/1.gif</file>
+        <file>media/level1/bg01.png</file>
+        <file>media/level1/bomb.png</file>
+        <file>media/level1/brick.png</file>
+        <file>media/level1/broken.png</file>
+        <file>media/level1/flag.png</file>
+        <file>media/level1/IMG_4506.png</file>
+        <file>media/level1/re.png</file>
+    </qresource>
+    <qresource prefix="/level2">
+        <file>media/level2/1.gif</file>
+        <file>media/level2/bg01.png</file>
+        <file>media/level2/bgm.mp3</file>
+        <file>media/level2/bomb.png</file>
+        <file>media/level2/flag.png</file>
+        <file>media/level2/IMG_4506.png</file>
+        <file>media/level2/normal.png</file>
+        <file>media/level2/opening.png</file>
+        <file>media/level2/re(2).png</file>
+    </qresource>
+    <qresource prefix="/level3">
+        <file>media/level3/1.gif</file>
+        <file>media/level3/b2.png</file>
+        <file>media/level3/bg01.png</file>
+        <file>media/level3/bomb.png</file>
+        <file>media/level3/brick.png</file>
+        <file>media/level3/flag.png</file>
+        <file>media/level3/IMG_4506.png</file>
+        <file>media/level3/re.png</file>
+    </qresource>
+</RCC>
